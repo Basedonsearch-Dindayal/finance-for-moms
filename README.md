@@ -29,8 +29,10 @@ A React Native mobile app helping busy moms take control of their finances with 
 
 ## 📱 Screenshots
 
-*Coming soon*
-
+![Unable to show](image.png)
+![Unable to show](image-1.png)
+![Unable to show](image-2.png)
+![Unable to show](image-3.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -211,10 +213,6 @@ npx expo build:ios
 - Expo team for the amazing development experience
 - React Native community for excellent documentation
 - All the moms who inspired this app
-
-## 📞 Support
-
-For support, email support@thrivemum.com or join our Slack channel.
 
 ## 🔗 Links
 
